@@ -2,7 +2,7 @@ class InesBotSearcher {
     constructor() {
         this.words = [];
         // Using raw.githubusercontent.com for direct file access
-        this.wordListUrl = 'https://raw.githubusercontent.com/hoshiyoshi-cpu/91524783945/main/yinglish';
+        this.wordListUrl = 'https://raw.githubusercontent.com/hoshiyoshi-cpu/915247839457/refs/heads/main/yinglish';
         
         this.initEventListeners();
     }
